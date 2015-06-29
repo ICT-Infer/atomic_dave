@@ -1,2 +1,2 @@
 # Atomic Dave
-CalDAV and Atom
+Calendar with CalDAV and Atom
